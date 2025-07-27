@@ -6,7 +6,7 @@ layout: default
 
 Datenanalyse
 <h1>Wie man mithilfe der RFM-Analyse im Onlinehandel High-Value-Kunden identifiziert</h1>
-
+![Main Picture](/assets/img/rfm_1_01.jpg)
 Foto von Jay Chan auf Unsplash
 
 In einem Einzelhandelsunternehmen tragen nicht alle Kunden gleichermaßen zum Umsatz des Geschäfts bei. Einige kaufen sehr häufig ein, andere seltener – aber wenn sie es tun, kaufen sie viel. Durch das Verständnis und die Segmentierung ihrer Kundschaft verschaffen sich Unternehmen einen strategischen Vorteil, der ihnen bei ihren Marketingkampagnen helfen kann.
@@ -23,11 +23,12 @@ Je nach Größe des Datensatzes können verschiedene Werkzeuge zur Durchführung
 <h2>Durchführung der RFM-Analyse mit pandas</h2>
 Die Analyse beginnt mit der Bereinigung der Transaktionsdaten und der Auswahl relevanter Merkmale. In meinem Datensatz sind die relevanten Merkmale: Rechnungsnummer, Rechnungsdatum, Kosten und Kunden-ID. Alle anderen Merkmale sind überflüssig, können jedoch im Modell verwendet werden, um die Ergebnisse zu visualisieren.
 
-Pic rfm_1_1: Rechnungsnummer, Rechnungsdatum, und Kosten sind die relevante Merkmale für RFM-Analyse.
+![Dataset_sample](/assets/img/rfm_1_1.jpg)
+Pic: Rechnungsnummer, Rechnungsdatum, und Kosten sind die relevante Merkmale für RFM-Analyse.
 
 **Recency (Aktualität)**: Sie misst, wie kürzlich ein Kunde einen Kauf getätigt hat. Die Aktualität wird üblicherweise in Tagen geschätzt und ergibt sich aus der Differenz zwischen dem letzten Kaufdatum und dem aktuellen Datum für jeden Kunden. In pandas verwendet man die groupby()-Methode, um den Datensatz nach dem Merkmal „Kunden-ID“ zu gruppieren. Anschließend wird das Merkmal „Rechnungsdatum“ mit einer Lambda-Funktion aggregiert, wie hier gezeigt.
 
-PIC
+![groupby() function](/assets/img/rfm_1_2.jpg)
 
 **Frequency (Häufigkeit)**: Sie zeigt, wie oft ein Kunde einen Kauf tätigt. In meinem Datensatz lässt sich die Häufigkeit eines Kunden ermitteln, indem man die Anzahl der Rechnungsnummern für jeden Kunden über den gesamten Datensatz hinweg zählt.
 
@@ -35,7 +36,7 @@ PIC
 
 **Kundensegmentierung**: Die berechneten RFM-Werte können schwer zu interpretieren sein und es ist nicht einfach, die besten Kunden zu identifizieren. Deshalb nutzen Unternehmen die RFM-Werte, um Cluster von Kunden mit ähnlichen Werte zu erkennen. Dies nennt man Kundensegmentierung. In pandas habe ich die Methode qcut() verwendet, um die RFM-Werte auf einer Skala von 1 bis 5 einzuteilen und zu kennzeichnen.
 
-PIC
+![Customer segmentation code](/assets/img/rfm_1_3.jpg)
 
 Anschließend habe ich die R-, F- und M-Werte jedes Kunden addiert, um einen endgültigen RFM-Score zu erhalten. Der maximale Score, den ein Kunde erreichen kann, beträgt 15 (also jeweils eine 5), und der minimale Score ist 3 (also jeweils eine 1). Schließlich habe ich eine neue Variable „Segment“ erstellt, die die Kunden basierend auf ihrem RFM-Score nach folgenden Kriterien einteilt:
 - High-Value-Kunde: RFM-Score von 12 oder höher
@@ -45,7 +46,7 @@ Anschließend habe ich die R-, F- und M-Werte jedes Kunden addiert, um einen end
 
 Das Endergebnis wird hier dargestellt.
 
-PIC
+![Final output](/assets/img/rfm_1_4.jpg)
 
 Basierend auf der Kundensegmentierung starten Unternehmen gezielte Marketingkampagnen. Zum Beispiel können High-Value-Kunden mit Treuepunkten belohnt werden. Kunden mit hoher Aktualität und niedriger Häufigkeit sind nichts anderes als Neukunden und können gezielt angesprochen werden, um sie zu Stammkunden zu machen. Gefährdete Kunden können mit Rückgewinnungskampagnen angesprochen werden.
 
