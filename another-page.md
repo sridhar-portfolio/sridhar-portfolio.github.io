@@ -4,7 +4,8 @@ layout: default
 
 ## Welcome to another page
 
-<h1>Datenanalyse: Wie man mithilfe der RFM-Analyse im Onlinehandel High-Value-Kunden identifiziert</h1>
+Datenanalyse
+<h1>Wie man mithilfe der RFM-Analyse im Onlinehandel High-Value-Kunden identifiziert</h1>
 
 Foto von Jay Chan auf Unsplash
 
