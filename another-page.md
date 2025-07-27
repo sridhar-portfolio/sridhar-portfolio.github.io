@@ -27,7 +27,7 @@ Die Analyse beginnt mit der Bereinigung der Transaktionsdaten und der Auswahl re
 ![Dataset_sample](/assets/img/rfm_1_1.jpg)
 Pic: Rechnungsnummer, Rechnungsdatum, und Kosten sind die relevante Merkmale für RFM-Analyse.
 
-**Recency (Aktualität)**: Sie misst, wie kürzlich ein Kunde einen Kauf getätigt hat. Die Aktualität wird üblicherweise in Tagen geschätzt und ergibt sich aus der Differenz zwischen dem letzten Kaufdatum und dem aktuellen Datum für jeden Kunden. In pandas verwendet man die groupby()-Methode, um den Datensatz nach dem Merkmal „Kunden-ID“ zu gruppieren. Anschließend wird das Merkmal „Rechnungsdatum“ mit einer Lambda-Funktion aggregiert, wie hier gezeigt.
+**Recency (Aktualität)**: Sie misst, wie kürzlich ein Kunde einen Kauf getätigt hat. Die Aktualität wird üblicherweise in Tagen geschätzt und ergibt sich aus der Differenz zwischen dem letzten Kaufdatum und dem aktuellen Datum für jeden Kunden. In pandas verwendet man die `groupby()`-Methode, um den Datensatz nach dem Merkmal „Kunden-ID“ zu gruppieren. Anschließend wird das Merkmal „Rechnungsdatum“ mit einer Lambda-Funktion aggregiert, wie hier gezeigt.
 
 ![groupby() function](/assets/img/rfm_1_2.jpg)
 
