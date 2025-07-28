@@ -7,6 +7,13 @@
     </a>
   </div>
 
+  <div style="width: 250px; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <a href="rfm_1.html">
+      <img src="../assets/img/pareto_1_0.jpg" alt="Pareto Analysis" style="width: 100%; height: 150px; object-fit: cover;">
+      <p style="padding: 10px; text-align: center;">Pareto trifft E-Commerce: Entlarvt die Datenanalyse den 80/20-Mythos?</p>
+    </a>
+  </div>
+
   <!-- Repeat for other projects -->
 
 </div>
