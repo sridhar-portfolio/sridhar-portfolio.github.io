@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./docs/rfm_1.html).
+[My Projects](./docs/projects.html).
 
 There should be whitespace between paragraphs.
 
