@@ -6,4 +6,4 @@ google_analytics:
 theme: jekyll-theme-minimal
 minimal:
   skin: default
-  custom_css: assets/css/custom.css
+  custom_css: /assets/css/custom.css
