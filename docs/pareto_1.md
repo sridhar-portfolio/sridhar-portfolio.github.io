@@ -35,23 +35,23 @@ Die Analyse beweist eindeutig, dass das Pareto-Prinzip kein Mythos ist und im On
 Als Erweiterung meiner Analyse gibt es weitere Bereiche im Einzelhandel, in denen die Pareto-Analyse ebenfalls eingesetzt werden kann, um verwertbare Erkenntnisse zu gewinnen. Einige davon sind nachfolgend aufgeführt.
 
 1. Produktoptimierung
-·	Verwenden Sie diese Analyse als Vorlage, um die 20 % der meistverkauften Produkte zu identifizieren, die 80 % des Umsatzes generieren
-·	Priorisieren Sie Lagerbestand, Marketing und Aktionen für diese Artikel
-·	Reduzieren oder entfernen Sie schlecht laufende Produkte, um die Abläufe zu optimieren
+- Verwenden Sie diese Analyse als Vorlage, um die 20 % der meistverkauften Produkte zu identifizieren, die 80 % des Umsatzes generieren
+- Priorisieren Sie Lagerbestand, Marketing und Aktionen für diese Artikel
+- Reduzieren oder entfernen Sie schlecht laufende Produkte, um die Abläufe zu optimieren
 
 2. Marketingeffizienz
-·	Analysieren Sie, welche 20 % der Kampagnen 80 % des Traffics bringen
-·	Weisen Sie Budget und Ressourcen leistungsstarken Kanälen zu (z. B. SEO, E-Mail)
-·	Kürzen Sie Maßnahmen mit geringer Wirkung, um den ROI zu verbessern
+- Analysieren Sie, welche 20 % der Kampagnen 80 % des Traffics bringen
+- Weisen Sie Budget und Ressourcen leistungsstarken Kanälen zu (z. B. SEO, E-Mail)
+- Kürzen Sie Maßnahmen mit geringer Wirkung, um den ROI zu verbessern
 
 3. Verbesserung des Kundenservice
-·	Identifizieren Sie wiederkehrende Probleme aus Support-Tickets oder Bewertungen
-·	Gehen Sie die wichtigsten 20 % der Probleme an, die 80 % der Unzufriedenheit verursachen
-·	Verbessern Sie entsprechend die Produktqualität, Benutzererfahrung oder Erfüllungsprozesse
+- Identifizieren Sie wiederkehrende Probleme aus Support-Tickets oder Bewertungen
+- Gehen Sie die wichtigsten 20 % der Probleme an, die 80 % der Unzufriedenheit verursachen
+- Verbessern Sie entsprechend die Produktqualität, Benutzererfahrung oder Erfüllungsprozesse
 
 4. Lagerbestandsmanagement
-·	Verwenden Sie Pareto-Diagramme, um schnelllaufende vs. langsam laufende Artikel zu verfolgen
-·	Investieren Sie in größere Lagerbestände für stark nachgefragte Produkte
-·	Vermeiden Sie Überbestände bei schwach performenden Artikeln, um Verschwendung zu reduzieren
+- Verwenden Sie Pareto-Diagramme, um schnelllaufende vs. langsam laufende Artikel zu verfolgen
+- Investieren Sie in größere Lagerbestände für stark nachgefragte Produkte
+- Vermeiden Sie Überbestände bei schwach performenden Artikeln, um Verschwendung zu reduzieren
 
 
