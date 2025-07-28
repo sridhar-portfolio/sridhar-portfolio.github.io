@@ -47,5 +47,3 @@ Das Endergebnis wird hier dargestellt.
 ![Final output](/assets/img/rfm_1_4.jpg)
 
 Basierend auf der Kundensegmentierung starten Unternehmen gezielte Marketingkampagnen. Zum Beispiel können High-Value-Kunden mit Treuepunkten belohnt werden. Kunden mit hoher Aktualität und niedriger Häufigkeit sind nichts anderes als Neukunden und können gezielt angesprochen werden, um sie zu Stammkunden zu machen. Gefährdete Kunden können mit Rückgewinnungskampagnen angesprochen werden.
-
-[back](./)
