@@ -1,4 +1,4 @@
-.tile a:hover {
+a:hover {
   font-weight: normal; /* Remove bold if previously applied */
   text-decoration: underline; /* Add underline */
 }
