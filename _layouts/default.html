@@ -28,11 +28,13 @@
         {% endif %}
 
         <button class="button-59" role="button" onclick="window.location.href='../index.html';">About</button>
+
+        <button class="button-59" role="button" onclick="window.location.href='../docs/projects.html';">Projects</button>
         
-        <p><a href="../docs/projects.html">Projects</a></p>
         
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
+        <button class="button-59" role="button" onclick="window.location.href='{{ site.github.owner_url }}';">GitHub Profile</button>
+        <!--<p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>-->
         {% endif %}
 
         <!-- {% if site.show_downloads %}
