@@ -6,7 +6,7 @@
     <a href="rfm_1.html">
       <img src="../assets/img/rfm_1_01.jpg" alt="RFM Analysis" style="width: 100%; height: 150px; object-fit: cover;">
       <p class=clamp-text; style="padding: 10px; text-align: left; color: #000000; font-weight: bold; margin-bottom: 0px;">RFM Analyse</p>
-      <p class=clamp-text; style="padding: 10px; text-align: left; color: #808080;">Wie man mithilfe der RFM-Analyse im Onlinehandel High-Value-Kunden identifiziert</p>
+      <p class=clamp-text; style="padding: 10px; text-align: left; color: #808080; margin-top: 5px;">Wie man mithilfe der RFM-Analyse im Onlinehandel High-Value-Kunden identifiziert</p>
     </a>
   </div>
 
@@ -14,7 +14,7 @@
     <a href="pareto_1.html">
       <img src="../assets/img/pareto_1_0.jpg" alt="Pareto Analysis" style="width: 100%; height: 150px; object-fit: cover;">
       <p class=clamp-text; style="padding: 10px; text-align: left; color: #000000; font-weight: bold; margin-bottom: 0px;">Pareto Diagramm</p>
-      <p class=clamp-text; style="padding: 10px; text-align: left; color: #808080;">Pareto trifft E-Commerce: Entlarvt die Datenanalyse den 80/20-Mythos?</p>
+      <p class=clamp-text; style="padding: 10px; text-align: left; color: #808080; margin-top: 5px;">Pareto trifft E-Commerce: Entlarvt die Datenanalyse den 80/20-Mythos?</p>
     </a>
   </div>
 
