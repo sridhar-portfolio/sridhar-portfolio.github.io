@@ -1,6 +1,6 @@
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: left;">
 
   <div style="flex: 0 0 calc(50% - 20px); box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <a href="rfm_1.html">
