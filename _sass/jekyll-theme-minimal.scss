@@ -41,7 +41,15 @@ a {
 
 a:hover, a:focus {
   color:#069;
-  font-weight: bold;
+  font-weight: normal;
+}
+
+.clamp-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;       /* Limits to 2 lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 a small {
