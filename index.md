@@ -16,4 +16,4 @@ Ich arbeite gerne mit Teams zusammen, die datengetrieben denken und neue Ideen f
 
 Danke fürs Vorbeischauen – ich hoffe, meine Arbeit spricht für sich.
 
-<p>- Sridhar Sekar</p>
+<p><strong>- Sridhar Sekar</strong></p>
