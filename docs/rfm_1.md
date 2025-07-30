@@ -5,6 +5,8 @@ layout: default
 <img class="article-img" src="/assets/img/rfm_1_01.jpg" alt="Main Picture">
 <p style="font-size: 10px; text-align: right; margin-top: 0px;">Foto von Jay Chan auf Unsplash</p>
 <h1>Datenanalyse: Wie man mithilfe der RFM-Analyse im Onlinehandel High-Value-Kunden identifiziert</h1>
+Juli 26, 2025
+
 Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/datenanalyse-wie-man-mithilfe-der-rfm-analyse-im-sridhar-sekar-odaje) veröffentlicht
 
 In einem Einzelhandelsunternehmen tragen nicht alle Kunden gleichermaßen zum Umsatz des Geschäfts bei. Einige kaufen sehr häufig ein, andere seltener – aber wenn sie es tun, kaufen sie viel. Durch das Verständnis und die Segmentierung ihrer Kundschaft verschaffen sich Unternehmen einen strategischen Vorteil, der ihnen bei ihren Marketingkampagnen helfen kann.
