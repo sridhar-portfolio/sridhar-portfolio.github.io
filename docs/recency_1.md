@@ -39,11 +39,9 @@ DATEDIFF(MAX(Online_Retail_New[InvoiceDate]), ref_date, DAY)
 **Heatmaps in Power BI**: Ich habe zwei Heatmaps erstellt – eine zur Visualisierung der Recency über verschiedene Länder hinweg, und eine weitere über die einzelnen Produktunterkategorien.
 
 ![Heatmap Product Subcategory](/assets/img/recency_1_3.jpg)
-
 Recency-Heatmap der Produktunterkategorien
 
 ![Heatmap Country](/assets/img/recency_1_4.jpg)
-
 Recency-Heatmap der Verkäufe in verschiedenen Ländern
 
 In unserem Einzelhandelsgeschäft verkaufen sich Produkte aus den Kategorien Gartenmöbel und Handwerkzeuge am wenigsten. Ebenso weisen die Länder Litauen, Libanon und Saudi-Arabien die höchsten Recency-Werte auf. Das Unternehmen kann geeignete Maßnahmen im Bereich Lagerbestand oder Marketing ergreifen, um die Recency-Werte zu senken.
