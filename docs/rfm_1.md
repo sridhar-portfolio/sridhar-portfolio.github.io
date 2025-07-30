@@ -48,4 +48,4 @@ Das Endergebnis wird hier dargestellt.
 
 Basierend auf der Kundensegmentierung starten Unternehmen gezielte Marketingkampagnen. Zum Beispiel können High-Value-Kunden mit Treuepunkten belohnt werden. Kunden mit hoher Aktualität und niedriger Häufigkeit sind nichts anderes als Neukunden und können gezielt angesprochen werden, um sie zu Stammkunden zu machen. Gefährdete Kunden können mit Rückgewinnungskampagnen angesprochen werden.
 
-Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/datenanalyse-wie-man-mithilfe-der-rfm-analyse-im-sridhar-sekar-odaje) veröffentlicht
+_[Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/datenanalyse-wie-man-mithilfe-der-rfm-analyse-im-sridhar-sekar-odaje) veröffentlicht]_
