@@ -7,8 +7,6 @@ layout: default
 <h1>Datenanalyse: Wie man mithilfe der RFM-Analyse im Onlinehandel High-Value-Kunden identifiziert</h1>
 Juli 17, 2025
 
-Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/datenanalyse-wie-man-mithilfe-der-rfm-analyse-im-sridhar-sekar-odaje) veröffentlicht
-
 In einem Einzelhandelsunternehmen tragen nicht alle Kunden gleichermaßen zum Umsatz des Geschäfts bei. Einige kaufen sehr häufig ein, andere seltener – aber wenn sie es tun, kaufen sie viel. Durch das Verständnis und die Segmentierung ihrer Kundschaft verschaffen sich Unternehmen einen strategischen Vorteil, der ihnen bei ihren Marketingkampagnen helfen kann.
 
 <h2>Was ist eine RFM-Analyse?</h2>
@@ -49,3 +47,5 @@ Das Endergebnis wird hier dargestellt.
 ![Final output](/assets/img/rfm_1_4.jpg)
 
 Basierend auf der Kundensegmentierung starten Unternehmen gezielte Marketingkampagnen. Zum Beispiel können High-Value-Kunden mit Treuepunkten belohnt werden. Kunden mit hoher Aktualität und niedriger Häufigkeit sind nichts anderes als Neukunden und können gezielt angesprochen werden, um sie zu Stammkunden zu machen. Gefährdete Kunden können mit Rückgewinnungskampagnen angesprochen werden.
+
+Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/datenanalyse-wie-man-mithilfe-der-rfm-analyse-im-sridhar-sekar-odaje) veröffentlicht
