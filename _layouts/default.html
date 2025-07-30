@@ -24,10 +24,9 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        {% if site.badge %}
-          <img src="{{site.badge | relative_url}}" alt="Badge" />
-        {% endif %}
-        
+        <img src="../assets/img/bi_badge.png" alt="Power BI Badge" style="width:200px; height:auto;">
+        <img src="../assets/img/da_badge.png" alt="Data Analyst Badge" style="width:200px; height:auto;">
+                
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
