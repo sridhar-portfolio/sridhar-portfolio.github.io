@@ -3,7 +3,7 @@ layout: default
 ---
 
 <img class="article-img" src="/assets/img/background_0.jpg" alt="Main Picture">
-<p style="font-size: 10px; text-align: center; margin-top: 0px;">Foto von Trevor Vannoy auf Unsplash</p>
+<p style="font-size: 10px; text-align: right; margin-top: 0px;">Foto von Trevor Vannoy auf Unsplash</p>
 
 Hallo,
 ich bin ein **Datenanalyst** mit dem Blick eines Data Scientists und der Genauigkeit eines Ingenieurs. Ich liebe es, aus Zahlen sinnvolle Erkenntnisse zu gewinnen und komplexe Zusammenhänge verständlich zu machen. Mit fundierten Kenntnissen in **Python**, **Power BI** und **Statistik** bewege ich mich sicher zwischen klassischer Datenanalyse und moderner Data Science.
