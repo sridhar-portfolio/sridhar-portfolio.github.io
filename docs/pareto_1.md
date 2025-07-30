@@ -3,7 +3,7 @@ layout: default
 ---
 
 <img class="article-img" src="/assets/img/pareto_1_0.jpg" alt="Main Picture">
-<p style="font-size: 10px; text-align: center; margin-top: 0px;">Foto von Austin Distel auf Unsplash</p>
+<p style="font-size: 10px; text-align: right; margin-top: 0px;">Foto von Austin Distel auf Unsplash</p>
 <h1>Pareto trifft E-Commerce: Entlarvt die Datenanalyse den 80/20-Mythos?</h1>
 Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/pareto-trifft-e-commerce-entlarvt-die-datenanalyse-den-sridhar-sekar-vgg2e) veröffentlicht
 
