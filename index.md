@@ -9,7 +9,7 @@ layout: default
 
 Meine Reise begann mit der Faszination für Muster in Daten. Daraus wurde schnell eine Leidenschaft dafür, die Geschichten hinter den Zahlen zu entdecken. In den letzten Jahren habe ich interaktive Dashboards gebaut, Prognosemodelle entwickelt und komplette Analyseprozesse umgesetzt – immer mit dem Ziel, <strong>bessere Entscheidungen</strong> zu ermöglichen.
 
-<p><img src="/assets/img/da_badge.png" alt="Data Analyst Badge" width="110" class="inline-image">In diesem Portfolio findest du verschiedene Projekte: von Kundenanalysen und Vorhersagemodellen mit Python bis hin zu Power BI-Dashboards, die komplexe Daten _einfach_ und _übersichtlich_ darstellen. Jedes Projekt zeigt mein Verständnis für echte Herausforderungen im Berufsalltag.</p>
+<p><img src="/assets/img/da_badge.png" alt="Data Analyst Badge" width="110" class="inline-image">In diesem Portfolio findest du verschiedene Projekte: von Kundenanalysen und Vorhersagemodellen mit Python bis hin zu Power BI-Dashboards, die komplexe Daten <strong>einfach</strong> und <strong>übersichtlich</strong> darstellen. Jedes Projekt zeigt mein Verständnis für echte Herausforderungen im Berufsalltag.</p>
 
 Ich arbeite gerne mit Teams zusammen, die datengetrieben denken und neue Ideen fördern. Wenn du jemanden suchst, der Analyse mit Strategie verbindet – und sich sowohl im Code als auch im Gespräch mit Entscheidungsträgern wohlfühlt – dann lass uns gerne austauschen.
 
