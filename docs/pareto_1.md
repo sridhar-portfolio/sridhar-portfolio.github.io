@@ -54,4 +54,4 @@ Als Erweiterung meiner Analyse gibt es weitere Bereiche im Einzelhandel, in dene
 - Investieren Sie in größere Lagerbestände für stark nachgefragte Produkte
 - Vermeiden Sie Überbestände bei schwach performenden Artikeln, um Verschwendung zu reduzieren
 
-Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/pareto-trifft-e-commerce-entlarvt-die-datenanalyse-den-sridhar-sekar-vgg2e) veröffentlicht
+_[Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/pareto-trifft-e-commerce-entlarvt-die-datenanalyse-den-sridhar-sekar-vgg2e) veröffentlicht]_
