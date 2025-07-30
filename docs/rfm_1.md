@@ -5,7 +5,7 @@ layout: default
 <img class="article-img" src="/assets/img/rfm_1_01.jpg" alt="Main Picture">
 <p style="font-size: 10px; text-align: right; margin-top: 0px;">Foto von Jay Chan auf Unsplash</p>
 <h1>Datenanalyse: Wie man mithilfe der RFM-Analyse im Onlinehandel High-Value-Kunden identifiziert</h1>
-Juli 26, 2025
+Juli 17, 2025
 
 Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/datenanalyse-wie-man-mithilfe-der-rfm-analyse-im-sridhar-sekar-odaje) veröffentlicht
 
