@@ -6,6 +6,7 @@ layout: default
 <p style="font-size: 10px; text-align: right; margin-top: 0px;">Foto von Isaac Smith auf Unsplash</p>
 
 Hallo,
+
 ich bin ein **Datenanalyst** mit dem Blick eines Data Scientists und der Genauigkeit eines Ingenieurs. Ich liebe es, aus Zahlen sinnvolle Erkenntnisse zu gewinnen und komplexe Zusammenhänge verständlich zu machen. Mit fundierten Kenntnissen in **Python**, **Power BI** und **Statistik** bewege ich mich sicher zwischen klassischer Datenanalyse und moderner Data Science.
 
 Meine Reise begann mit der Faszination für Muster in Daten. Daraus wurde schnell eine Leidenschaft dafür, die Geschichten hinter den Zahlen zu entdecken. In den letzten Jahren habe ich interaktive Dashboards gebaut, Prognosemodelle entwickelt und komplette Analyseprozesse umgesetzt – immer mit dem Ziel, **bessere Entscheidungen** zu ermöglichen.
