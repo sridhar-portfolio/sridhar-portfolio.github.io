@@ -7,8 +7,6 @@ layout: default
 <h1>Pareto trifft E-Commerce: Entlarvt die Datenanalyse den 80/20-Mythos?</h1>
 Juli 26, 2025
 
-Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/pareto-trifft-e-commerce-entlarvt-die-datenanalyse-den-sridhar-sekar-vgg2e) veröffentlicht
-
 Pareto-Analyse ist ein Entscheidungswerkzeug, das das Pareto-Prinzip, auch bekannt als 80/20-Regel, verwendet, um die wirkungsvollsten Faktoren in einem Unternehmen zu identifizieren und zu priorisieren. Das Prinzip besagt, dass 80 % der Ergebnisse aus 20 % der Ursachen stammen. Mit anderen Worten: In einem Online-Handelsunternehmen tragen nur 20 % der Kunden zu 80 % des Umsatzes bei. Diese Fallstudie ist ein Versuch, die Gültigkeit dieses Prinzips zu überprüfen.
 
 Eine Pareto-Analyse beinhaltet in der Regel das Sammeln von Daten zu einem bestimmten Thema, wie z. B. Produktverkäufen, das Ranking von Kunden nach ihrem Beitrag zum Umsatz und schließlich die Visualisierung dieser Daten mithilfe eines Pareto-Diagramms. Hier werde ich die Python-Bibliothek Pandas verwenden – um die Transaktionsdaten aus dem Einzelhandel zu analysieren – und Matplotlib – um die Ergebnisse zu visualisieren.
@@ -56,4 +54,4 @@ Als Erweiterung meiner Analyse gibt es weitere Bereiche im Einzelhandel, in dene
 - Investieren Sie in größere Lagerbestände für stark nachgefragte Produkte
 - Vermeiden Sie Überbestände bei schwach performenden Artikeln, um Verschwendung zu reduzieren
 
-
+Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/pareto-trifft-e-commerce-entlarvt-die-datenanalyse-den-sridhar-sekar-vgg2e) veröffentlicht
