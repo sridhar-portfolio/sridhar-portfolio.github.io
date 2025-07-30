@@ -14,3 +14,5 @@ In meinem Portfolio findest du verschiedene Projekte: von Kundenanalysen und Vor
 Ich arbeite gerne mit Teams zusammen, die datengetrieben denken und neue Ideen fördern. Wenn du jemanden suchst, der Analyse mit Strategie verbindet – und sich sowohl im Code als auch im Gespräch mit Entscheidungsträgern wohlfühlt – dann lass uns gerne austauschen.
 
 Danke fürs Vorbeischauen – ich hoffe, meine Arbeit spricht für sich.
+
+<p>- Sridhar Sekar</p>
