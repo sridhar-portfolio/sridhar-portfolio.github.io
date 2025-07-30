@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<img class="article-img" src="/assets/img/background_2.jpg" alt="Main Picture">
-<p style="font-size: 10px; text-align: right; margin-top: 0px;">Foto von <a href="https://unsplash.com/@olloweb?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Agence Olloweb</a> auf <a href="https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-a-graph-on-it-qfp4-Ud6Fyg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
+<img class="article-img" src="/assets/img/background_3.jpg" alt="Main Picture">
+<p style="font-size: 10px; text-align: right; margin-top: 0px;">Foto von <a href="https://unsplash.com/@jakubzerdzicki?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jakub Żerdzicki</a> auf <a href="https://unsplash.com/photos/a-person-holding-a-piece-of-paper-over-a-laptop-9PwLeZA-RGc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
       
 
 <p><img src="/assets/img/bi_badge.png" alt="Power BI Badge" width="130" class="inline-image">Hallo, ich bin ein <strong>Datenanalyst</strong> mit dem Blick eines Data Scientists und der Genauigkeit eines Ingenieurs. Ich liebe es, aus Zahlen sinnvolle Erkenntnisse zu gewinnen und komplexe Zusammenhänge verständlich zu machen. Mit fundierten Kenntnissen in <strong>Python</strong>, <strong>Power BI</strong> und <strong>Statistik</strong> bewege ich mich sicher zwischen klassischer Datenanalyse und moderner Data Science.</p>
