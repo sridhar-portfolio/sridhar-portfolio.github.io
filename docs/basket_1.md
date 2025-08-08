@@ -5,7 +5,7 @@ layout: default
 <img class="article-img" src="/assets/img/basket_1_0.jpg" alt="Main Picture">
 <p style="font-size: 10px; text-align: right; margin-top: 0px;">Foto von <a href="https://unsplash.com/@karsten116?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Karsten Winegeart</a> auf <a href="https://unsplash.com/photos/a-person-pushing-a-shopping-cart-full-of-food-CZtK_E89omo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
 <h1>Warenkorbanalyse im E-Commerce: Was Ihre Kunden wirklich zusammen kaufen</h1>
-August 08, 2025
+August 09, 2025
 
 Warenkorbanalyse ist eine leistungsstarke Data-Mining-Technik, die die Kombinationen von Produkten untersucht, die von einem Kunden gemeinsam gekauft werden. Ziel der Analyse ist es, das Kaufverhalten der Kunden zu verstehen. Sie beantwortet die Frage: „Wenn ein Kunde Produkt A kauft, wie hoch ist die Wahrscheinlichkeit, dass er auch Produkt B kauft?“
 
@@ -35,4 +35,4 @@ Unternehmen nutzen die Warenkorbanalyse für verschiedene Zwecke. Sie entwickeln
 
 Darüber hinaus können Unternehmen gebündelte Aktionen oder Rabatte für Artikel anbieten, die oft zusammen gekauft werden. Sie können auch personalisierte Empfehlungen aussprechen, etwa durch die Funktion „Kunden kauften auch …“.
 
-_[Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/kundenaktivit%C3%A4t-verstehen-und-nutzen-mit-power-bi-recency-sekar-kzx8e) veröffentlicht]_
+_[Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/warenkorbanalyse-im-e-commerce-ihre-kunden-wirklich-zusammen-sekar-ql7pe) veröffentlicht]_
