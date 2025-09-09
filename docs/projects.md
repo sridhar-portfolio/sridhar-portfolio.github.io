@@ -33,6 +33,16 @@
     </a>
       <p style="padding: 10px; text-align: left; color: #000000; margin-top: 0px;">Warenkorbanalyse im E-Commerce: Was Ihre Kunden wirklich zusammen kaufen</p>
   </div>
+
+
+  <div style="flex: 0 0 calc(50% - 20px); box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <a href="cohort_1.html">
+      <img src="../assets/img/cohort_1_0.jpg" alt="Cohort Analysis" style="width: 100%; height: 150px; object-fit: cover;">
+      <p style="padding: 10px; text-align: left; font-weight: bold; margin-bottom: 0px;">Cohort Analysis</p>
+    </a>
+      <p style="padding: 10px; text-align: left; color: #000000; margin-top: 0px;">Wie lange bleiben Ihre Kunden? Eine datenbasierte Analyse der Kundenbindung</p>
+  </div>
+  
   
   <!-- Repeat for other projects -->
 
