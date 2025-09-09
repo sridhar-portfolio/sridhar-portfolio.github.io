@@ -12,9 +12,9 @@ Kundenbindung ist entscheidend für den Erfolg eines Unternehmens. Denn die Gewi
 Die Kohortenanalyse hilft dabei, das Kundenverhalten über einen bestimmten Zeitraum hinweg zu verstehen, indem Personen gruppiert werden, die ein gemeinsames Merkmal innerhalb eines definierten Zeitraums teilen – typischerweise ihre erste Interaktion oder ihren ersten Kauf. Diese Gruppe wird als Kohorte bezeichnet.
 
 Eine Kohortenanalyse umfasst in der Regel:
-·	Die Gruppierung von Kunden nach dem Monat ihres ersten Kaufs
-·	Die Verfolgung der Kundenbindung, indem beobachtet wird, wie viele dieser Kunden in den Folgemonaten zurückkehren
-·	Die Visualisierung dieser Daten in einer Matrix oder Heatmap, um Trends zu erkennen
+1. Die Gruppierung von Kunden nach dem Monat ihres ersten Kaufs
+2. Die Verfolgung der Kundenbindung, indem beobachtet wird, wie viele dieser Kunden in den Folgemonaten zurückkehren
+3. Die Visualisierung dieser Daten in einer Matrix oder Heatmap, um Trends zu erkennen
 
 In meinem E-Commerce-Datensatz habe ich die Kunden basierend auf dem Monat ihres ersten Kaufs gruppiert und anschließend verfolgt, wie viele von ihnen in den darauffolgenden Monaten zurückgekehrt sind.
 
@@ -34,8 +34,8 @@ Der Kohortenindex zeigt, wie lange ein Kunde dem Unternehmen treu bleibt. Unser 
 Diese Matrix zeigt, dass die Kunden, die im Dezember 2010 gewonnen wurden, länger bleiben. Ein weiterer Trend ist, dass die Kundenbindung stark von Monat 0 zu Monat 1 abnimmt, was auf ein schlechtes Onboarding oder mangelnde Kundenbindung hinweisen könnte. Schließlich gewinnt das Unternehmen regelmäßig etwa 20 % seiner ursprünglichen Kunden zurück.
 
 Vorschläge:
-·	Eine vereinfachte Erstkauf-Erfahrung kann die Kundenbindung im ersten Monat verbessern.
-·	Die Einführung von Treueprogrammen oder personalisierten Empfehlungen kann die Gesamtbindung erhöhen.
-·	Die Bindungsraten können genutzt werden, um den Umsatz zu schätzen, den jede Kohorte generieren wird.
+1. Eine vereinfachte Erstkauf-Erfahrung kann die Kundenbindung im ersten Monat verbessern.
+2. Die Einführung von Treueprogrammen oder personalisierten Empfehlungen kann die Gesamtbindung erhöhen.
+3. Die Bindungsraten können genutzt werden, um den Umsatz zu schätzen, den jede Kohorte generieren wird.
 
 _[Ursprünglich auf [LinkedIn](https://www.linkedin.com/pulse/wie-lange-bleiben-ihre-kunden-eine-datenbasierte-analyse-sekar-kdh0e) veröffentlicht]_
