@@ -34,11 +34,11 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: left;">
   <!-- ITEM 1 -->
   <div style="flex: 0 0 calc(33.333% - 20px); box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <a href="rfm_1.html">
+    <a href="rag_chatbot.html">
       <img src="../assets/img/rfm_1_01.jpg" alt="RFM Analysis" style="width: 100%; height: 150px; object-fit: cover;">
-      <p style="padding: 10px; text-align: left; font-weight: bold; margin-bottom: 0px;">RFM Analyse</p>
+      <p style="padding: 10px; text-align: left; font-weight: bold; margin-bottom: 0px;">Bank Assistant</p>
       </a>
-      <p class="project-caption" style="padding: 10px; text-align: left; color: #000000; margin-top: 0px;">Wie man mithilfe der RFM-Analyse im Onlinehandel High-Value-Kunden identifiziert</p>
+      <p class="project-caption" style="padding: 10px; text-align: left; color: #000000; margin-top: 0px;">Fragen Sie mich alles zu Girokonten, Sparkonten, Kreditkarten, Privatkrediten und mehr.</p>
   </div>
 </div>
 
