@@ -1,7 +1,8 @@
 
 
 <!-- CATEGORY 1 -->
-## LLM
+<h2 style="text-align: left; margin-bottom: 5px;">LLM</h2>
+<hr style="margin-top: 0; margin-bottom: 20px;">
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- ITEM 1 -->
@@ -15,7 +16,8 @@
 </div>
 
 <!-- CATEGORY 2 -->
-## MLOps
+<h2 style="text-align: left; margin-top: 60px; margin-bottom: 5px;">MLOps</h2>
+<hr style="margin-top: 0; margin-bottom: 20px;">
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- ITEM 1 -->
@@ -29,7 +31,8 @@
 </div>
 
 <!-- CATEGORY 3 -->
-## RAG
+<h2 style="text-align: left; margin-top: 60px; margin-bottom: 5px;">RAG</h2>
+<hr style="margin-top: 0; margin-bottom: 20px;">
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- ITEM 1 -->
@@ -43,7 +46,8 @@
 </div>
 
 <!-- CATEGORY 4 -->
-## Power BI
+<h2 style="text-align: left; margin-top: 60px; margin-bottom: 5px;">Power BI</h2>
+<hr style="margin-top: 0; margin-bottom: 20px;">
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- ITEM 1 -->
@@ -57,7 +61,8 @@
 </div>
 
 <!-- CATEGORY 5 -->
-## Data Analytics
+<h2 style="text-align: left; margin-top: 60px; margin-bottom: 5px;">Data Analytics</h2>
+<hr style="margin-top: 0; margin-bottom: 20px;">
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- ITEM 1 -->
