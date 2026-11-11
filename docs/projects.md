@@ -3,7 +3,6 @@
 <!-- CATEGORY 1 -->
 <h2 style="text-align: left; margin-bottom: 5px;">LLM</h2>
 <hr style="margin-top: 0; margin-bottom: 20px;">
----
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- ITEM 1 -->
   <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
@@ -18,7 +17,6 @@
 <!-- CATEGORY 2 -->
 <h2 style="text-align: left; margin-top: 60px; margin-bottom: 5px;">MLOps</h2>
 <hr style="margin-top: 0; margin-bottom: 20px;">
----
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- ITEM 1 -->
   <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
@@ -33,7 +31,6 @@
 <!-- CATEGORY 3 -->
 <h2 style="text-align: left; margin-top: 60px; margin-bottom: 5px;">RAG</h2>
 <hr style="margin-top: 0; margin-bottom: 20px;">
----
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- ITEM 1 -->
   <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
@@ -48,7 +45,6 @@
 <!-- CATEGORY 4 -->
 <h2 style="text-align: left; margin-top: 60px; margin-bottom: 5px;">Power BI</h2>
 <hr style="margin-top: 0; margin-bottom: 20px;">
----
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- ITEM 1 -->
   <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
@@ -63,7 +59,6 @@
 <!-- CATEGORY 5 -->
 <h2 style="text-align: left; margin-top: 60px; margin-bottom: 5px;">Data Analytics</h2>
 <hr style="margin-top: 0; margin-bottom: 20px;">
----
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <!-- ITEM 1 -->
   <div style="flex: 1 1 calc(33.333% - 20px); box-sizing: border-box; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
