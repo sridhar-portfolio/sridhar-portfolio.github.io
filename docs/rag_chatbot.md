@@ -1,21 +1,5 @@
 <!DOCTYPE HTML>
 
-<!-- Floating Chatbot Widget HTML & CSS -->
-<div id="chatbot-container" style="display: none; position: fixed; bottom: 90px; right: 20px; width: 380px; height: 700px; background: white; border-radius: 12px; box-shadow: 0 5px 25px rgba(0,0,0,0.2); z-index: 9999; overflow: hidden; border: 1px solid #ddd;">
-  <div style="background: #0e1117; color: white; padding: 10px 15px; display: flex; justify-content: space-between; align-items: center; font-family: sans-serif;">
-    <span style="font-weight: bold; font-size: 14px;">🏛️ <span>Banking Assistant</span></span>
-    <button onclick="toggleChatbot()" style="background: none; border: none; color: white; font-size: 16px; cursor: pointer;">&times;</button>
-  </div>
-  <!-- Streamlit embedded with embed=true parameter to strip extra toolbar headers -->
-  <iframe src="https://yourfinbank.streamlit.app/?embed=true" style="width: 100%; height: calc(100% - 43px); border: none;"></iframe>
-</div>
-
-<!-- Floating Action Button (Bottom Right Corner) -->
-<button onclick="toggleChatbot()" style="position: fixed; bottom: 20px; right: 20px; background-color: #ff4b4b; color: white; border: none; border-radius: 50px; padding: 12px 20px; font-size: 15px; font-weight: bold; cursor: pointer; box-shadow: 0 4px 12px rgba(0,0,0,0.3); z-index: 9998; display: flex; align-items: center; gap: 8px; font-family: sans-serif;">
-  <i class="fa-solid fa-robot"></i>
-</button>
-
-
 <html>
 	<head>
 		<title>Editorial by HTML5 UP</title>
@@ -44,8 +28,8 @@
 										<p>Hybrid-Index (Vektor- und Volltextsuche) über Finanzprodukt-Informationen, Gebührenverzeichnisse und Kreditrichtlinien. Inklusive Quellennachweis & Safety-Guardrails.</p>
 										<ul class="actions">
 											<li><button onclick="toggleChatbot()">
-												<i class="fa-solid fa-robot"></i><span> Try Live RAG Demo</span></li>
-											</button>
+												<i class="fa-solid fa-robot"></i><span> Try Live RAG Demo</span>
+											</button></li>
 										</ul>
 									</div>
 									<span class="image object">
@@ -91,17 +75,27 @@
 						</div>
 					</div>
 			</div>
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-	</body>
-</html>
+		<!-- Floating Chatbot Widget HTML & CSS -->
+		<div id="chatbot-container" style="display: none; position: fixed; bottom: 90px; right: 20px; width: 380px; height: 700px; background: white; border-radius: 12px; box-shadow: 0 5px 25px rgba(0,0,0,0.2); z-index: 9999; overflow: hidden; border: 1px solid #ddd;">
+  			<div style="background: #0e1117; color: white; padding: 10px 15px; display: flex; justify-content: space-between; align-items: center; font-family: sans-serif;">
+    			<span style="font-weight: bold; font-size: 14px;">🏛️ <span>Banking Assistant</span></span>
+    			<button onclick="toggleChatbot()" style="background: none; border: none; color: white; font-size: 16px; cursor: pointer;">&times;</button>
+  			</div>
+  			<!-- Streamlit embedded with embed=true parameter to strip extra toolbar headers -->
+  			<iframe src="https://yourfinbank.streamlit.app/?embed=true" style="width: 100%; height: calc(100% - 43px); border: none;"></iframe>
+		</div>
 
-
-
+		<!-- Floating Action Button (Bottom Right Corner) -->
+<button onclick="toggleChatbot()" style="position: fixed; bottom: 20px; right: 20px; background-color: #ff4b4b; color: white; border: none; border-radius: 50px; padding: 12px 20px; font-size: 15px; font-weight: bold; cursor: pointer; box-shadow: 0 4px 12px rgba(0,0,0,0.3); z-index: 9998; display: flex; align-items: center; gap: 8px; font-family: sans-serif;">
+  			<i class="fa-solid fa-robot"></i>
+</button>
+		
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
 
 <!-- JavaScript to handle Open/Close toggle behavior -->
 <script>
@@ -114,3 +108,10 @@
     }
   }
 </script>
+</body>
+</html>
+
+
+
+
+
