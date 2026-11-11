@@ -5,7 +5,7 @@
     <button onclick="toggleChatbot()" style="background: none; border: none; color: white; font-size: 16px; cursor: pointer;">&times;</button>
   </div>
   <!-- Streamlit embedded with embed=true parameter to strip extra toolbar headers -->
-  <iframe src="https://yourfinbank.streamlit.app/?embed=true" style="width: 100%; height: calc(100% - 40px); border: none;"></iframe>
+  <iframe src="https://yourfinbank.streamlit.app/?embed=true" style="width: 100%; height: calc(100% - 60px); border: none;"></iframe>
 </div>
 
 <!-- Floating Action Button (Bottom Right Corner) -->
