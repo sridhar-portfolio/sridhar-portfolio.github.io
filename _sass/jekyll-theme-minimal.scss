@@ -205,7 +205,7 @@ strong {
 }
 
 section {
-  width:500px;
+  width:calc(100% - 320px);
   float:right;
   padding-bottom:50px;
 }
