@@ -1,11 +1,11 @@
 <!-- Floating Chatbot Widget HTML & CSS -->
-<div id="chatbot-container" style="display: none; position: fixed; bottom: 90px; right: 20px; width: 380px; height: 85vh; background: white; border-radius: 12px; box-shadow: 0 5px 25px rgba(0,0,0,0.2); z-index: 9999; overflow: hidden; border: 1px solid #ddd;">
+<div id="chatbot-container" style="display: none; position: fixed; bottom: 90px; right: 20px; width: 380px; height: 700px; background: white; border-radius: 12px; box-shadow: 0 5px 25px rgba(0,0,0,0.2); z-index: 9999; overflow: hidden; border: 1px solid #ddd;">
   <div style="background: #0e1117; color: white; padding: 10px 15px; display: flex; justify-content: space-between; align-items: center; font-family: sans-serif;">
     <span style="font-weight: bold; font-size: 14px;">🏛️ <span>Banking Assistant</span></span>
     <button onclick="toggleChatbot()" style="background: none; border: none; color: white; font-size: 16px; cursor: pointer;">&times;</button>
   </div>
   <!-- Streamlit embedded with embed=true parameter to strip extra toolbar headers -->
-  <iframe src="https://yourfinbank.streamlit.app/?embed=true" style="width: 100%; height: 85vh; border: none;"></iframe>
+  <iframe src="https://yourfinbank.streamlit.app/?embed=true" style="width: 100%; height: calc(100% - 43px); border: none;"></iframe>
 </div>
 
 <!-- Floating Action Button (Bottom Right Corner) -->
