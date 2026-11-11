@@ -11,7 +11,6 @@
                 <p style="margin: 0; font-size: 11px; color: #94a3b8;">FastAPI backend • Qdrant embeddings</p>
             </div>
         </div>
-      <button onclick="toggleChatbot()" style="background: none; border: none; color: white; font-size: 16px; cursor: pointer;">&times;</button>
     </div>
   
   <!-- <div style="background: #0e1117; color: white; padding: 10px 15px; display: flex; justify-content: space-between; align-items: center; font-family: sans-serif;">
