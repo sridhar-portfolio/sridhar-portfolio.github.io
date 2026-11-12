@@ -1,10 +1,10 @@
-<div><p style="color: gray; bottom: 20px;"> Retrieval-Augmented Generation</p></div>
+<div><p style="color: gray; bottom: 0px;"> Retrieval-Augmented Generation</p></div>
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   
   <!-- Left Side: Text -->
   <div style="flex: 1; min-width: 280px;">
-    <h2>RAG-Produktassistent für das Bankwesen</h2>
+    <h1>RAG-Produktassistent für das Bankwesen</h1>
 	<p>Girokonten | Sparkonten | Kreditkarten | Privatkrediten | Mehr</p>
     <p>Hybrid-Index (Vektor- und Volltextsuche) über Finanzprodukt-Informationen, Gebührenverzeichnisse und Kreditrichtlinien. Inklusive Quellennachweis & Safety-Guardrails.</p>
 	<button onclick="toggleChatbot()" class="button primary">
