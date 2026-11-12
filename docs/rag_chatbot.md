@@ -1,3 +1,5 @@
+#### Retrieval-Augmented Generation
+---
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   
   <!-- Left Side: Text -->
