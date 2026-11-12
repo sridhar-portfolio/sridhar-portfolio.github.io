@@ -1,18 +1,21 @@
----
-title: Retrieval-Augmented Generation
----
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  
+  <!-- Left Side: Text -->
+  <div style="flex: 1; min-width: 280px;">
+    <h2>RAG-Produktassistent für das Bankwesen</h2>
+	<p>Girokonten | Sparkonten | Kreditkarten | Privatkrediten | Mehr</p>
+    <p>Hybrid-Index (Vektor- und Volltextsuche) über Finanzprodukt-Informationen, Gebührenverzeichnisse und Kreditrichtlinien. Inklusive Quellennachweis & Safety-Guardrails.</p>
+	<button onclick="toggleChatbot()" class="button primary">
+  		<i class="fa-solid fa-robot"></i> Try Live RAG Demo
+	</button>
+  </div>
 
-# RAG-Produktassistent für das Bankwesen
+  <!-- Right Side: Image -->
+  <div style="flex: 1; min-width: 280px;">
+    <img src="/assets/img/banks.jpg" alt="banks" style="width: 100%; height: auto; border-radius: 8px;" />
+  </div>
 
-**Girokonten | Sparkonten | Kreditkarten | Privatkrediten | Mehr**
-
-Hybrid-Index (Vektor- und Volltextsuche) über Finanzprodukt-Informationen, Gebührenverzeichnisse und Kreditrichtlinien. Inklusive Quellennachweis & Safety-Guardrails.
-
-<button onclick="toggleChatbot()" class="button primary">
-  <i class="fa-solid fa-robot"></i> Try Live RAG Demo
-</button>
-
-![banks](/assets/img/banks.jpg)
+</div>
 
 ---
 
