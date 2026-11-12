@@ -1,4 +1,4 @@
-#### Retrieval-Augmented Generation
+<div><p style="color: gray; bottom: 20px;"> Retrieval-Augmented Generation</p></div>
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   
